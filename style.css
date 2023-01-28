@@ -19,8 +19,7 @@ body {
     padding: 5px 10%;
 }
 
-.header .logo {
-    cursor: pointer;
+.header .logo {}
 }
 
 .header .logo img {
